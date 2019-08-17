@@ -1,0 +1,47 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Uu]nity[Gg]enerated/
+/[Ll]ibrary/
+[Uu]nity[Vv][Ss]/
+
+[Bb]uilds/
+[Ee]ditor/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.vs
+*[Uu]nity[Vv][Ss]*
+.reuniter_data 
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ============== #
+# Editor Plugins #
+# ============== #
+Assets/ConsoleE/
+ConsoleE.meta
+Assets/.reuniter_data
+ProjectSettings/ProjectVersion.txt
